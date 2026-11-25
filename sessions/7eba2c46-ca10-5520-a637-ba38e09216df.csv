@@ -1,0 +1,2 @@
+message_id,timestamp,turn,session_id,repo,model,source,agent,agent_id,input_tokens,cache_creation_input_tokens,cache_read_input_tokens,output_tokens,cache_write_1h_tokens,speed,web_search_requests,inference_geo,skill_use
+msg_011ChQ6iVU9MnKD6zXQ7vibu,2026-11-25T18:13:03.358Z,1,7eba2c46-ca10-5520-a637-ba38e09216df,65-601.Z,claude-sonnet-5-5,main,main,,2,29805,63462,859,29805,standard,0,global,
